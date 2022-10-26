@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://raw.githubusercontent.com/nakampany/nakampany/main/profile-summary-card-output/github/1-repos-per-language.svg)
-
-![](https://raw.githubusercontent.com/nakampany/nakampany/main/profile-summary-card-output/github/4-productive-time.svg)
+![](https://raw.githubusercontent.com/nakampany/nakampany/main/profile-summary-card-output/github/1-repos-per-language.svg)![](https://raw.githubusercontent.com/nakampany/nakampany/main/profile-summary-card-output/github/4-productive-time.svg)
 
 
 
