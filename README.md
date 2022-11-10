@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm nakampany</h1>
+<h1 align="center">Hi 👋, I'm nakajima shota</h1>
 <h3 align="center">AI＆Backend Engineer</h3>
 
 
