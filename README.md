@@ -1,18 +1,14 @@
 
-<h1 align="center">Hi 👋, I'm Shota Nakajima</h1>
-<h3 align="center">AI＆Backend Engineer</h3>
+<h1>About Me</h1>
+<h3>AI＆Backend Engineer</h3>
+<h5>🌱 I’m currently learning Python(Django), JavaScript(React), PHP(Laravel)</h4>
 
-
-<h5 align="center">🌱 I’m currently learning Python,JavaScript</h4>
-
-
-<h3 align="center">MY SNS:</h3>
-<p align="center">
+<h1>MY SNS:</h1>
 <a href="https://twitter.com/nakaji__1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nakaji__1229" height="30" width="40" /></a>
 <a href="https://instagram.com/nakasy1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nakasy1229" height="30" width="40" /></a>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h1>Languages and Tools:</h1>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
