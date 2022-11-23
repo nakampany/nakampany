@@ -1,7 +1,7 @@
 
 <h1>About Me</h1>
 <h3>AI＆Backend Engineer</h3>
-<h5>🌱 I’m currently learning Python(Django), JavaScript(React), PHP(Laravel)</h5>
+<h5>🌱 I’m currently learning Python(pytorch, Django), JavaScript(React), PHP(Laravel), AWS, Docker</h5>
 
 <h1>MY SNS:</h1>
 <a href="https://twitter.com/nakaji__1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nakaji__1229" height="30" width="40" /></a>
