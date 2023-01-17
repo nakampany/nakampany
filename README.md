@@ -5,7 +5,6 @@
 
 <h1>MY SNS:</h1>
 <a href="https://twitter.com/nakaji__1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nakaji__1229" height="30" width="40" /></a>
-<a href="https://instagram.com/nakasy1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nakasy1229" height="30" width="40" /></a>
 
 
 <h1>Languages and Tools:</h1>
