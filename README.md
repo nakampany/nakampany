@@ -1,6 +1,6 @@
 
 <h1>About Me</h1>
-<h3>AI＆Backend Engineer</h3>
+<h3>Backend Engineer</h3>
 <h5>🌱 I’m currently learning Python(pytorch, Django), JavaScript(React), PHP(Laravel), AWS, Docker</h5>
 
 <h1>MY SNS:</h1>
