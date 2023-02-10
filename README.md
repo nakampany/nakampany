@@ -1,11 +1,4 @@
 
-<h1>About Me</h1>
-<h3>Backend Engineer</h3>
-<h5>🌱 I’m currently learning Python(pytorch, Django), JavaScript(React), PHP(Laravel), AWS, Docker</h5>
-
-<h1>MY SNS:</h1>
-<a href="https://twitter.com/nakaji__1229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nakaji__1229" height="30" width="40" /></a>
-
 <p align="left">
   <a href="https://github.com/nakampany">
     <img src="https://komarev.com/ghpvc/?username=nakampany" alt="nakampany" />
@@ -21,6 +14,9 @@
   </a>
 </p>
 
+<h1>About Me</h1>
+<h3>Backend Engineer</h3>
+<h3>🌱 I’m currently learning Python, JavaScript, PHP</h5>
 
 <h1>Languages and Tools:</h1>
 <h3>Data Analysis</h3>
@@ -42,6 +38,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   </br>
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakampany&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakampany)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
