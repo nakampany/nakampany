@@ -17,6 +17,9 @@
 <h1>About Me</h1>
 <h3>Backend Engineer</h3>
 <h3>🌱 I’m currently learning Python, JavaScript, PHP</h5>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nakampany&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakampany&show_icons=true)
 
 <h1>Languages and Tools:</h1>
 <h3>Data Analysis</h3>
@@ -37,12 +40,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   </br>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakampany&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakampany)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nakampany)](https://github.com/ryo-ma/github-profile-trophy)
 
 
