@@ -6,7 +6,7 @@
   <a href="https://github.com/nakampany">
     <img height="20" src="https://img.shields.io/github/followers/nakampany?label=follow&logo=github&style=flat" />
   </a>
-  <//qiita.com/nakampany">
+  <//qiita.com/naka2792">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nakasyo2792/contributions.svg" />
   </a>
   <a href="https://mobile.twitter.com/nakaji__1229" target="_blank">
