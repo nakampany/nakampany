@@ -17,7 +17,8 @@
 <h1>About Me</h1>
 <h3>Backend Engineer</h3>
 <h3>🌱 I’m currently learning Python, JavaScript, PHP</h5>
-[![trophy](https://github-profile-trophy.vercel.app/?username=nakampany&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=nakampany&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakampany&show_icons=true)
 
