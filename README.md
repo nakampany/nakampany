@@ -43,6 +43,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakampany)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=nakampany)](https://github.com/ryo-ma/github-profile-trophy)
 
 
