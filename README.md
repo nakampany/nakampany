@@ -3,9 +3,6 @@
   <a href="https://github.com/nakampany">
     <img src="https://komarev.com/ghpvc/?username=nakampany" alt="nakampany" />
   </a>
-  <a href="https://github.com/nakampany">
-    <img height="20" src="https://img.shields.io/github/followers/nakampany?label=follow&logo=github&style=flat" />
-  </a>
   <//qiita.com/naka2792">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nakasyo2792/contributions.svg" />
   </a>
