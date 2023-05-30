@@ -20,7 +20,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   </br>
 
- <h3>- BackEnd：python, php, Go, MySQL, postgreSQL</h5>
+ <h3>- BackEnd：python, php, ｇolang, mysql, postgresql</h5>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/noknow_blog/it/20220623/1656007488212279645_go.png" alt="Go" width="40" height="40"/> </a>
