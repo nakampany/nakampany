@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1>About Me</h1>
+<h1>Shota Nakajima</h1>
 <h3>😁About Me：I am a student. I started programming in April 2022</h3>
 <h3>💪Skills　：　Python　/　PHP　/　Go　/　React</h3>
 
