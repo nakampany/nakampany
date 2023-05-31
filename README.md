@@ -9,7 +9,7 @@
 </p>
 
 <h1>Shota Nakajima</h1>
-<h3>😁About Me：I am a student. I started programming in April 2022</h3>
+<h3>😁About Me： student. I started programming in April 2022</h3>
 <h3>💪Skills</h3>
 
 <h3>- Data Analysis：python, pandas, sklearn, tensorflow, pytorch</h3>
