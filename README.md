@@ -10,7 +10,7 @@
 
 <h1>Shota Nakajima</h1>
 <h3>😁About Me：I am a student. I started programming in April 2022</h3>
-<h3>💪Skills　：　Python　/　PHP　/　Go　/　React</h3>
+<h3>💪Skills</h3>
 
 <h3>- Data Analysis：python, pandas, sklearn, tensorflow, pytorch</h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
