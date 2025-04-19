@@ -6,7 +6,6 @@
 </p>
 
 <h1>Shota Nakajima</h1>
-<h3>😁About Me：  I started programming in April 2022</h3>
   
 
 
